@@ -1,0 +1,12 @@
+{
+  "name": "guided-project---web-crawler",
+  "version": "1.0.0",
+  "description": "a guided project to build a web crawler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
